@@ -1,0 +1,49 @@
+﻿Chromosome,Inheritance,Title,Cytoband,Link,Comment
+2,N.A.,UPD 2,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582337/,UPD2만 가진 경우엔 normal 
+5,Paternal,UPD 5,,https://www.orpha.net/en/disease/detail/96190,Paternal uniparental disomy of chromosome 5 is an uniparental disomy of paternal origin that most likely does not have any phenotypic expression except from cases of homozygosity for a recessive disease mutation for which only father is a carrier.
+6,Paternal,Transient neonatal diabetes mellitus,6q24,https://www.omim.org/entry/601410,"Caused by loss of maternal allele at 6q24
+Caused by homo/Chet mutation in the ZFP57
+a few cases have been reported to have duplications in the long arm of chromosome 6
+Neonatal diabetes mellitus, insulin-requiring hyperglycemia within the first month
+"
+7,Maternal,Silver-Russell syndrome 2,7q32,https://www.omim.org/entry/618905,"Short stature
+prenatal and postnatal growth retardation
+triangular shaped face
+GeneReview: 7q32 (including MEST)"
+11,Maternal,Silver-Russell syndrome 1,11p15,https://www.omim.org/entry/180860,"Maternal 11p15 duplication associated 
+Short stature
+prenatal and postnatal growth retardation
+triangular shaped face
+"
+11,Paternal,Beckwith-Wiedemann syndrome,11p15.5,https://www.omim.org/entry/130650,"caused by mutation or deletion of imprinted genes within the chromosome 11p15.5 region(H19 and IGF2)
+Wide phenotypic spectrum
+Generalized overgrowth
+Hemihypertrophy(특징적 증상이라고 함)
+Macroglossia
+Visceromegaly"
+14,Maternal,Temple syndrome,14q32,https://www.omim.org/entry/616222,"Caused by imprinting defect on chromosome 14q32
+Short stature
+Hypotonia and motor delay
+Feeding problem"
+14,Paternal,Kagami-Ogata syndrome,,https://www.omim.org/entry/608149,"Caused by chromosome 14 paternal uniparental disomy
+Polyhydramnios(양수과다증)
+Macrosomia
+placentomegaly(태반비대)"
+15,Maternal,"Prader-Willi syndrome	",15q11.2,https://www.omim.org/entry/176270,"Caused by deletion of the paternal allele of the imprinted region at 15q11.2
+neonatal hypotonia
+Failure to thrive
+Obesity"
+15,Paternal,Angelman syndrome,15q12,https://www.omim.org/entry/105830,"70%: deletion of maternal 15q12
+3-5%: upd(15)pat
+5%: mutation in UBE3A
+Severe mental retardation with absent speech"
+20,Paternal,Pseudohypoparathyroidism Ib,,https://www.omim.org/entry/603233,"2~20%: upd(20)pat
+GNAS point mutations
+resistance to parathyroid hormone, 
+hypocalcemia, 
+Hyperphosphatemia
+increased serum PTH"
+20,Maternal,Mulchandani-Bhoj-Conlin syndrome,20q11-q13,https://www.omim.org/entry/617352,"deletion of the paternal allele of the imprinted region at 20q11-q13
+prenatal growth restriction
+severe short stature with proportional head circumference
+profound feeding difficulty"
