@@ -1,49 +1,11 @@
-﻿Chromosome,Inheritance,Title,Cytoband,Link,Comment
-2,N.A.,UPD 2,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582337/,UPD2만 가진 경우엔 normal 
-5,Paternal,UPD 5,,https://www.orpha.net/en/disease/detail/96190,Paternal uniparental disomy of chromosome 5 is an uniparental disomy of paternal origin that most likely does not have any phenotypic expression except from cases of homozygosity for a recessive disease mutation for which only father is a carrier.
-6,Paternal,Transient neonatal diabetes mellitus,6q24,https://www.omim.org/entry/601410,"Caused by loss of maternal allele at 6q24
-Caused by homo/Chet mutation in the ZFP57
-a few cases have been reported to have duplications in the long arm of chromosome 6
-Neonatal diabetes mellitus, insulin-requiring hyperglycemia within the first month
-"
-7,Maternal,Silver-Russell syndrome 2,7q32,https://www.omim.org/entry/618905,"Short stature
-prenatal and postnatal growth retardation
-triangular shaped face
-GeneReview: 7q32 (including MEST)"
-11,Maternal,Silver-Russell syndrome 1,11p15,https://www.omim.org/entry/180860,"Maternal 11p15 duplication associated 
-Short stature
-prenatal and postnatal growth retardation
-triangular shaped face
-"
-11,Paternal,Beckwith-Wiedemann syndrome,11p15.5,https://www.omim.org/entry/130650,"caused by mutation or deletion of imprinted genes within the chromosome 11p15.5 region(H19 and IGF2)
-Wide phenotypic spectrum
-Generalized overgrowth
-Hemihypertrophy(특징적 증상이라고 함)
-Macroglossia
-Visceromegaly"
-14,Maternal,Temple syndrome,14q32,https://www.omim.org/entry/616222,"Caused by imprinting defect on chromosome 14q32
-Short stature
-Hypotonia and motor delay
-Feeding problem"
-14,Paternal,Kagami-Ogata syndrome,,https://www.omim.org/entry/608149,"Caused by chromosome 14 paternal uniparental disomy
-Polyhydramnios(양수과다증)
-Macrosomia
-placentomegaly(태반비대)"
-15,Maternal,"Prader-Willi syndrome	",15q11.2,https://www.omim.org/entry/176270,"Caused by deletion of the paternal allele of the imprinted region at 15q11.2
-neonatal hypotonia
-Failure to thrive
-Obesity"
-15,Paternal,Angelman syndrome,15q12,https://www.omim.org/entry/105830,"70%: deletion of maternal 15q12
-3-5%: upd(15)pat
-5%: mutation in UBE3A
-Severe mental retardation with absent speech"
-20,Paternal,Pseudohypoparathyroidism Ib,,https://www.omim.org/entry/603233,"2~20%: upd(20)pat
-GNAS point mutations
-resistance to parathyroid hormone, 
-hypocalcemia, 
-Hyperphosphatemia
-increased serum PTH"
-20,Maternal,Mulchandani-Bhoj-Conlin syndrome,20q11-q13,https://www.omim.org/entry/617352,"deletion of the paternal allele of the imprinted region at 20q11-q13
-prenatal growth restriction
-severe short stature with proportional head circumference
-profound feeding difficulty"
+﻿Chromosome,Inheritance,Title,Cytoband,Core gene,Symptoms,Link
+6,Paternal,Transient neonatal diabetes mellitus,6q24,ZFP57,"Severe failure to thrive, Dehydration, Small for gestational age, Transient neonatal diabetes mellitus, Intrauterine growth retardation, Hyperglycemia",https://www.omim.org/entry/601410
+7,Maternal,Silver-Russell syndrome 2,7q32,,"Short stature, Postnatal growth retardation, Delayed skeletal maturation, Low-set ears, Intrauterine growth retardation, Motor delay, Craniofacial disproportion, Prominent forehead, Short 5th finger, Deep philtrum, Relative macrocephaly, Triangular face, Severe short stature, Clinodactyly of the 5th finger, Broad forehead, Hyperhidrosis, Feeding difficulties, Delayed speech and language development, Posteriorly rotated ears",https://www.omim.org/entry/618905
+11,Maternal,Silver-Russell syndrome 1,11p15,,"Hypospadias, Relative macrocephaly, Short 5th finger, Severe intrauterine growth retardation, Hypoglycemia, Thin vermilion border, Ventricular septal defect, Wide anterior fontanel, Short stature, Prominent forehead, Intrauterine growth retardation, Delayed closure of the anterior fontanelle, Penile hypospadias, Esophagitis, Postnatal growth retardation, Downturned corners of mouth, Triangular face, Delayed skeletal maturation, Failure to thrive, Motor delay, Hemihypertrophy, Retrognathia, Anisometropia, Small for gestational age, Severe short stature, Overgrowth, Atrial septal defect, Micrognathia, Feeding difficulties, Cafe-au-lait spot, Clinodactyly of the 5th finger",https://www.omim.org/entry/180860
+11,Paternal,Beckwith-Wiedemann syndrome,11p15.5,"KCNQ1OT1, CDKN1C","Pancreatic hyperplasia, Prominent occiput, Dandy-Walker malformation, Adrenocortical carcinoma, Vesicoureteral reflux, Cardiomegaly, Adrenocortical cytomegaly, Overgrowth, Omphalocele, Large fontanelles, Coarse facial features, Hepatomegaly, Renal cortical cysts, Proptosis, Enlarged kidney, Cardiomyopathy, Cryptorchidism, Nephrocalcinosis, Nephroblastoma, Hemihypertrophy, Overgrowth of external genitalia, Macroglossia, Hearing impairment, Nevus flammeus, Gonadoblastoma, Neuroblastoma, Nephrolithiasis, Midface retrusion, Abnormal posterior cranial fossa morphology, Hepatoblastoma, Diastasis recti",https://www.omim.org/entry/130650
+14,Maternal,Temple syndrome,14q32,,"Wide nose, Truncal obesity, Decreased testicular size, Intrauterine growth retardation, Scoliosis, Prominent forehead, Recurrent otitis media, Generalized hypotonia, Hydrocephalus, Small hand, Posteriorly rotated ears, Cryptorchidism, Hypercholesterolemia, Short philtrum, Small for gestational age, Frontal bossing, Micrognathia, Severe short stature, Delayed speech and language development, Feeding difficulties, High palate, Hypertriglyceridemia, Depressed nasal bridge, Motor delay, Anteverted nares",https://www.omim.org/entry/616222
+14,Paternal,Kagami-Ogata syndrome,14q32,,"Frontal hirsutism, Diastasis recti, Retrognathia, Blepharophimosis, Splenomegaly, Seizure, Depressed nasal bridge, Short palpebral fissure, Long philtrum, Hepatomegaly, Micrognathia, Chin with H-shaped crease, Coxa valga, Frontal bossing, Atrial septal defect, Inguinal hernia, Congenital kyphoscoliosis, Low APGAR score, Long clavicles, Anteverted nares, Hypoplasia of the maxilla, Laryngomalacia, Feeding difficulties, Polyhydramnios, Thin ribs, Generalized hypotonia, Abnormal placenta morphology",https://www.omim.org/entry/608149
+15,Maternal,"Prader-Willi syndrome	",15q11.2-13.1,,"Abnormal facial shape, Neoplasm, Hypoplastic labia minora, Upslanted palpebral fissure, Prominent forehead, Osteoporosis, Oligomenorrhea, Sleep abnormality, Small hand, Full cheeks, Generalized hypopigmentation, Disseminated intravascular coagulation, Abnormality of the cardiovascular system, Cryptorchidism, Small scrotum, Hypernasal speech, Hypermetropia, Polyphagia, Amenorrhea, Atypical behavior, Short foot, Aortic valve stenosis, Poor fine motor coordination, Sepsis, Intellectual disability, mild, Short palm, Poor suck, Precocious puberty, Myopia, Intrauterine growth retardation, Respiratory failure, Strabismus, Edema, Psychotic episodes, Failure to thrive in infancy, Thin upper lip vermilion, Specific learning disability, Kyphosis, Bicuspid aortic valve, Depressed nasal bridge, Frontal upsweep of hair, Narrow forehead, Seizure, Carious teeth, Obesity, Truncal obesity, Clitoral hypoplasia, Temperature instability, Cutaneous photosensitivity, Skin-picking, Striae distensae, Glucose intolerance, Hyperinsulinemia, Reduced circulating growth hormone concentration, Decreased body weight, Hypertension, Sleep apnea, Microphallus, Almond-shaped palpebral fissure, Hypoventilation, Abnormal pinna morphology, Vascular dilatation, Skeletal muscle hypertrophy, Narrow palpebral fissure, Hypothermia, Global developmental delay, Hypopigmentation of the skin, Short stature, Tapered finger, Nystagmus, Syndactyly, Dolichocephaly, Clumsiness, Osteopenia, Clinodactyly, Poor gross motor coordination, Pulmonary embolism, Hypogonadotropic hypogonadism, Hypoxemia, Abdominal obesity, Decreased fetal movement, Pruritus, Vomiting, Scoliosis, Micropenis, Inflammation of the large intestine",https://www.omim.org/entry/176270
+15,Paternal,Angelman syndrome,15q11.2-13.1,UBE3A,"Hypopigmentation of the skin, Intellectual disability, severe, Wide mouth, Decreased need for sleep, Hypotonia, Scoliosis, Flat occiput, Myopia, Widely spaced teeth, Hypermetropia, Brachycephaly, Broad-based gait, Anisometropia, Abnormal cerebellum morphology, Protruding tongue, Constipation, Astigmatism, Large foramen magnum, Strabismus, Blue irides, Hearing impairment, Seizure, Tongue thrusting, Secondary microcephaly, Cerebellar atrophy, Absent speech, Limb tremor, Generalized hypotonia, Mandibular prognathia, Fever, Abnormality of movement, Hyperreflexia, Global developmental delay, Obesity, Paroxysmal bursts of laughter, Hyperkinetic movements",https://www.omim.org/entry/105830
+20,Paternal,Pseudohypoparathyroidism Ib,20q13.32,"STX16, GNASAS1, GNAS","Elevated circulating parathyroid hormone level, Hypocalcemia, Brown tumor, Pseudohypoparathyroidism, Low urinary cyclic AMP response to PTH administration, Hyperphosphatemia, Cognitive impairment",https://www.omim.org/entry/603233
+20,Maternal,Mulchandani-Bhoj-Conlin syndrome,20q11-q13 ,,"Short stature, Delayed gross motor development, Feeding difficulties, Clinodactyly of the 5th finger, Dolichocephaly, Generalized hypotonia, Hyperlordosis, Hypotonia, Abnormality of skin pigmentation, Severe short stature, Failure to thrive, Intrauterine growth retardation",https://www.omim.org/entry/617352
